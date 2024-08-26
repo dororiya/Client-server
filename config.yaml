@@ -1,0 +1,25 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    dor123:
+      email: do@gmail.com
+      name: dor
+      password: $2b$12$h5YxzTCSyR4R1eTYJvFHcuqYenka5mMqDeMXpxbhYA5YPTQoB6VS2
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$Rc9yEsCpgzacu84Vwioj..njKWDHG8A3xc1xmGPmthIxml.7ihl92
+    or123:
+      email: or@gmail.com
+      name: or
+      password: $2b$12$RSzSsZ8U6r5VOdXOUIyFdujjTMPVHkunywwy/bvgD/v7G5AG43lMy
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$VRruPar7pKL4iuARgzCfMehlOeTq1T33ISUTpHgtPC5ffW.TBy/pO
+preauthorized:
+  emails:
+  - dor@gmail.com
